@@ -1,0 +1,4 @@
+node_modules
+dist
+config/env/secrets.js
+src/entities/health/config/envsData.ts
